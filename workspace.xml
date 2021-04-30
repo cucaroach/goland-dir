@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89c1b44c-3dae-4ad5-9f6c-542bdb1371c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/Cellar/go/1.16.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/pkg/ui/package.json" />
+  </component>
+  <component name="ProjectId" id="1qDyjC5G7GusGINfiSFTKvicW3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;SQL" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pkg/ccl/logictestccl/testdata/logic_test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/pkg/ui/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkg/ccl/logictestccl/testdata/logic_test" />
+      <recent name="$PROJECT_DIR$/pkg/sql/logictest/testdata/logic_test" />
+      <recent name="$PROJECT_DIR$/pkg/sql/opt/optbuilder" />
+      <recent name="$PROJECT_DIR$/pkg/sql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestMaxDiskSpillUsage in github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain">
+    <configuration name="TPCH: go build github.com/cockroachdb/cockroach" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <parameters value="start-single-node --insecure -s $USER_HOME$/databases/tpch --cache=10G" />
+      <kind value="FILE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/cmd/cockroach" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/pkg/cmd/cockroach/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/cockroachdb/cockroach/pkg/cmd/cockroach-short" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-mod=vendor" />
+      <parameters value="sql" />
+      <envs>
+        <env name="COCKROACH_URL" value="'postgres://demo:demo31541@127.0.0.1:26257?sslmode=require'" />
+      </envs>
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/cmd/cockroach-short" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMaxDiskSpillUsage in github.com/cockroachdb/cockroach/pkg/sql" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMaxDiskSpillUsage\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMaxDiskSpillUsage in github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql/opt/exec/explain" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMaxDiskSpillUsage\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMaxDiskSpillUsage/#00 in github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql/opt/exec/explain" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestMaxDiskSpillUsage\E$/^\Q#00\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestStats opt/memo" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql/opt/memo" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql/opt/memo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="TestStats/blah" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUnionType in github.com/cockroachdb/cockroach/pkg/sql/opt/optbuilder" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql/opt/optbuilder" />
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql/opt/optbuilder" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestUnionType\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/cockroachdb/cockroach/pkg/sql/rowflow" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql/rowflow" />
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql/rowflow" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test logicccltest regional_by_row_vec_off " type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/ccl/logictestccl" />
+      <parameters value="-test.run &quot;TestCCLLogic/^multiregion-9node-3region-3azs-vec-off$/^regional_by_row$/&quot; -test.v -show-sql" />
+      <envs>
+        <env name="MACOSX_DEPLOYMENT_TARGET" value="11.2" />
+      </envs>
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/ccl/logictestccl" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test logicccltest regional_by_row_vec_on" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/ccl/logictestccl" />
+      <parameters value="-test.run &quot;TestCCLLogic/^multiregion-9node-3region-3azs$/^regional_by_row_vec_on$/&quot; -test.v -show-sql" />
+      <envs>
+        <env name="MACOSX_DEPLOYMENT_TARGET" value="11.2" />
+      </envs>
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/ccl/logictestccl" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test logictest step" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql/logictest" />
+      <parameters value="-test.run &quot;TestLogic/^local$/^step$/&quot; -test.v -show-sql -config local -full-messages" />
+      <envs>
+        <env name="MACOSX_DEPLOYMENT_TARGET" value="11.2" />
+      </envs>
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql/logictest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test logictest unionc" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="cockroach" />
+      <working_directory value="$PROJECT_DIR$/pkg/sql/logictest" />
+      <parameters value="-test.run &quot;TestLogic/^local-vec-off$/^union$/&quot; -test.v -show-sql -full-messages -show-logs" />
+      <envs>
+        <env name="MACOSX_DEPLOYMENT_TARGET" value="11.2" />
+      </envs>
+      <kind value="PACKAGE" />
+      <package value="github.com/cockroachdb/cockroach/pkg/sql/logictest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.TPCH: go build github.com/cockroachdb/cockroach" />
+      <item itemvalue="Go Build.go build github.com/cockroachdb/cockroach/pkg/cmd/cockroach-short" />
+      <item itemvalue="Go Test.go test logictest step" />
+      <item itemvalue="Go Test.go test logictest unionc" />
+      <item itemvalue="Go Test.go test logicccltest regional_by_row_vec_off " />
+      <item itemvalue="Go Test.go test logicccltest regional_by_row_vec_on" />
+      <item itemvalue="Go Test.TestStats opt/memo" />
+      <item itemvalue="Go Test.TestUnionType in github.com/cockroachdb/cockroach/pkg/sql/opt/optbuilder" />
+      <item itemvalue="Go Test.go test github.com/cockroachdb/cockroach/pkg/sql/rowflow" />
+      <item itemvalue="Go Test.TestMaxDiskSpillUsage in github.com/cockroachdb/cockroach/pkg/sql" />
+      <item itemvalue="Go Test.TestMaxDiskSpillUsage in github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" />
+      <item itemvalue="Go Test.TestMaxDiskSpillUsage/#00 in github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestMaxDiskSpillUsage in github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" />
+        <item itemvalue="Go Test.TestMaxDiskSpillUsage/#00 in github.com/cockroachdb/cockroach/pkg/sql/opt/exec/explain" />
+        <item itemvalue="Go Test.TestMaxDiskSpillUsage in github.com/cockroachdb/cockroach/pkg/sql" />
+        <item itemvalue="Go Test.go test github.com/cockroachdb/cockroach/pkg/sql/rowflow" />
+        <item itemvalue="Go Test.TestUnionType in github.com/cockroachdb/cockroach/pkg/sql/opt/optbuilder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <dependency master-id="0" />
+          <url>file://$PROJECT_DIR$/pkg/sql/conn_executor_exec.go</url>
+          <line>826</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <dependency master-id="0" />
+          <url>file://$PROJECT_DIR$/pkg/sqlmigrations/migrations.go</url>
+          <line>621</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <dependency master-id="0" />
+          <url>file://$PROJECT_DIR$/pkg/sqlmigrations/migrations.go</url>
+          <line>607</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <dependency id="0" />
+          <url>file://$PROJECT_DIR$/pkg/sql/logictest/logic.go</url>
+          <line>3323</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/cmd/roachprod/install/cockroach.go</url>
+          <line>504</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/rpc/tls.go</url>
+          <line>103</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/sql/opt/exec/explain/output_test.go</url>
+          <line>164</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/kv/kvserver/stats_test.go</url>
+          <line>57</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/storage/enginepb/mvcc.pb.go</url>
+          <line>220</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
